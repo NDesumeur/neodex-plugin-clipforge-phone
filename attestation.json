@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.clipforge",
+  "repo": "NDesumeur/neodex-plugin-clipforge-phone",
+  "version": "1.0.0",
+  "sha256": "4d897f4591afb991b40814443bcf3f6a5d4af3b7fc8f4bc9ccede64e8ba51780",
+  "approvedAt": "2026-11-17T18:40:02.762Z",
+  "neobase": ">=4.0.0",
+  "signature": "ZsHeOjNefg9Hwc7+EvYNQhOj1b6H8aZMhmGlZrnuMR/x3i6cXDxw9MmFSw1w9DKadUs5ow2vS9ChbBXPHM8uDw=="
+}
